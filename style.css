@@ -51,10 +51,20 @@ h1 {
 
 #car-card--1 {
   grid-area: c1;
+
+  background-image: url(/img/bmw.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 #car-card--2 {
   grid-area: c2;
+  background-image: url(/img/audi.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #car-card--3 {
