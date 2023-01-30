@@ -59,6 +59,10 @@ h1 {
 
 #car-card--3 {
   grid-area: c3;
+  background-image: url(/img/mercedes.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .car-card_heading {
